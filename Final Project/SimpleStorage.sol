@@ -13,8 +13,8 @@ contract SimpleStorage {
     uint x;
     
     // declares a state variable note uint stands for unsigned integer which is commonly used in solidity which we use when we don't need the number to negative
-by using uint we don't have to worry possiblity of the number being a negative number. So if you need both positive and negative you should use int if not use
-uint.
+//by using uint we don't have to worry possiblity of the number being a negative number. So if you need both positive and negative you should use int if not use
+//uint.
 
   
     //Allows the unsigned integer stored to be changed
